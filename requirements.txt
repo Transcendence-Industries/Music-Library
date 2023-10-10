@@ -1,0 +1,4 @@
+eyed3==0.9.7
+colorama==0.4.6
+nicegui==1.13.15
+sqlalchemy==2.0.6
