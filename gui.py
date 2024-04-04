@@ -1,6 +1,6 @@
 from nicegui import ui
 
-from Data import *
+from data import *
 from config import CONFIG
 from log import logger
 
